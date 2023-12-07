@@ -1,0 +1,172 @@
+INFO 2023-12-05 15:52:17,335 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:52:17,828 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:52:17,887 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:52:17,984 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:52:18,054 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:53:21,694 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:53:22,202 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:53:22,258 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:53:22,341 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:53:22,404 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:53:45,199 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:53:45,507 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:53:45,561 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:53:45,636 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:53:45,696 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:53:45,805 [root:eda.py:question_five:168]
+EDA Question 5 complete
+
+INFO 2023-12-05 15:54:31,512 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:54:31,810 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:54:31,866 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:54:31,937 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:54:31,987 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:54:32,083 [root:eda.py:question_five:168]
+EDA Question 5 complete
+
+INFO 2023-12-05 15:56:31,231 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:56:31,735 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:56:31,783 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:56:31,866 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:56:31,933 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:56:32,039 [root:eda.py:question_five:168]
+EDA Question 5 complete
+
+INFO 2023-12-05 15:56:32,602 [root:data.py:create_target:44]
+Target variable created
+
+INFO 2023-12-05 15:56:32,605 [root:data.py:convert_to_celsius:53]
+Temperature converted to celsius
+
+INFO 2023-12-05 15:56:32,609 [root:data.py:ordinal_encoding:65]
+Type encoded
+
+INFO 2023-12-05 15:58:12,248 [root:eda.py:setup:40]
+Created type_of_failure column
+
+INFO 2023-12-05 15:58:12,751 [root:eda.py:question_one:53]
+EDA Question 1 complete
+
+INFO 2023-12-05 15:58:12,813 [root:eda.py:question_two:66]
+EDA Question 2 complete
+
+INFO 2023-12-05 15:58:12,897 [root:eda.py:question_three:107]
+EDA Question 3 complete
+
+INFO 2023-12-05 15:58:12,970 [root:eda.py:question_four:137]
+EDA Question 4 complete
+
+INFO 2023-12-05 15:58:13,085 [root:eda.py:question_five:168]
+EDA Question 5 complete
+
+INFO 2023-12-05 15:58:13,674 [root:data.py:create_target:43]
+Target variable created
+
+INFO 2023-12-05 15:58:13,677 [root:data.py:convert_to_celsius:52]
+Temperature converted to celsius
+
+INFO 2023-12-05 15:58:13,681 [root:data.py:ordinal_encoding:59]
+Type encoded
+
+INFO 2023-12-05 15:58:13,689 [root:data.py:feature_scaling:84]
+Features scaled
+
+INFO 2023-12-05 15:58:13,734 [root:data.py:sampling:94]
+Data sampled
+
+INFO 2023-12-05 15:58:50,420 [root:train.py:model1:75]
+MODEL 1
+
+INFO 2023-12-05 15:58:50,425 [root:train.py:model1:76]
+Best Model: RandomForestClassifier() 
+
+INFO 2023-12-05 15:58:50,434 [root:train.py:model1:77]
+Classification Report:
+              precision    recall  f1-score      support
+0              0.999325  0.976575  0.987819  3031.000000
+1              0.988737  0.999679  0.994178  6235.000000
+accuracy       0.992122  0.992122  0.992122     0.992122
+macro avg      0.994031  0.988127  0.990999  9266.000000
+weighted avg   0.992201  0.992122  0.992098  9266.000000
+
+INFO 2023-12-05 15:58:52,768 [root:train.py:model2:106]
+model 0 logged to mlflow
+
+INFO 2023-12-05 15:59:12,778 [root:train.py:model2:106]
+model 1 logged to mlflow
+
+INFO 2023-12-05 15:59:14,652 [root:train.py:model2:106]
+model 2 logged to mlflow
+
+INFO 2023-12-05 15:59:23,028 [root:train.py:model2:106]
+model 3 logged to mlflow
+
+INFO 2023-12-05 15:59:23,176 [root:train.py:model2:123]
+MODEL 2: 
+
+INFO 2023-12-05 15:59:23,178 [root:train.py:model2:124]
+Best Model: RandomForestClassifier()
+
+INFO 2023-12-05 15:59:23,184 [root:train.py:model2:125]
+Classification Report:
+              precision    recall  f1-score      support
+0              0.996738  1.000000  0.998367  1528.000000
+1              0.998733  1.000000  0.999366  1576.000000
+2              0.993667  1.000000  0.996823  1569.000000
+3              0.989867  0.998722  0.994275  1565.000000
+4              0.977444  1.000000  0.988593  1560.000000
+5              0.998572  0.952997  0.975253  1468.000000
+accuracy       0.992338  0.992338  0.992338     0.992338
+macro avg      0.992503  0.991953  0.992113  9266.000000
+weighted avg   0.992439  0.992338  0.992277  9266.000000
+

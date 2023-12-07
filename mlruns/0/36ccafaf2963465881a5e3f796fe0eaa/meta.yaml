@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mowlanicab/Desktop/Data%20Science/Projects/Predictive_Maintainance_MlOps/Predictive_Maintainance_End-to-End_MlOps/mlruns/0/36ccafaf2963465881a5e3f796fe0eaa/artifacts
+end_time: 1701772098607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ccafaf2963465881a5e3f796fe0eaa
+run_name: gaudy-bee-559
+run_uuid: 36ccafaf2963465881a5e3f796fe0eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701772095118
+status: 3
+tags: []
+user_id: mowlanicab

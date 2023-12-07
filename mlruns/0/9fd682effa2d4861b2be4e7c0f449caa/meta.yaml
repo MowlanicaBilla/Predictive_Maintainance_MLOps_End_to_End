@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mowlanicab/Desktop/Data%20Science/Projects/Predictive_Maintainance_MlOps/Predictive_Maintainance_End-to-End_MlOps/mlruns/0/9fd682effa2d4861b2be4e7c0f449caa/artifacts
+end_time: 1701772122758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fd682effa2d4861b2be4e7c0f449caa
+run_name: victorious-rat-521
+run_uuid: 9fd682effa2d4861b2be4e7c0f449caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701772120832
+status: 3
+tags: []
+user_id: mowlanicab

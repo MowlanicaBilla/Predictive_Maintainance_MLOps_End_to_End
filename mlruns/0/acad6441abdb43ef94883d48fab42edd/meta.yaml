@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mowlanicab/Desktop/Data%20Science/Projects/Predictive_Maintainance_MlOps/Predictive_Maintainance_End-to-End_MlOps/mlruns/0/acad6441abdb43ef94883d48fab42edd/artifacts
+end_time: 1701772163026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acad6441abdb43ef94883d48fab42edd
+run_name: spiffy-flea-379
+run_uuid: acad6441abdb43ef94883d48fab42edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701772161260
+status: 3
+tags: []
+user_id: mowlanicab

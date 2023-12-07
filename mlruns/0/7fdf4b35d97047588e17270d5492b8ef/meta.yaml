@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mowlanicab/Desktop/Data%20Science/Projects/Predictive_Maintainance_MlOps/Predictive_Maintainance_End-to-End_MlOps/mlruns/0/7fdf4b35d97047588e17270d5492b8ef/artifacts
+end_time: 1701772120511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fdf4b35d97047588e17270d5492b8ef
+run_name: bouncy-calf-703
+run_uuid: 7fdf4b35d97047588e17270d5492b8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701772118047
+status: 3
+tags: []
+user_id: mowlanicab
